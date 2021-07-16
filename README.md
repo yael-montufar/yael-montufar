@@ -26,7 +26,7 @@
 ### Working with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="64px">
-<img src="https://raw.githubusercontent.com/yaelmontufar/yaelmontufar/7616e6bf4a6888a0e3bbaa0c69cd266d9667623d/apple.svg" width="64px">
+<img src="https://raw.githubusercontent.com/yaelmontufar/yaelmontufar/7616e6bf4a6888a0e3bbaa0c69cd266d9667623d/apple.svg" width="48px">
 <img src="https://raw.githubusercontent.com/ym-devel/ym-devel/main/firebase.svg" width="64px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="64px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="64px">
