@@ -1,7 +1,17 @@
 <h1 align="center">&lt;HelloWorld/&gt; <img src="https://raw.githubusercontent.com/yaelmontufar/yaelmontufar/main/Hi.gif" width="30px"></h1>
-<img  align="center" src="https://raw.githubusercontent.com/yaelmontufar/yaelmontufar/main/YM.gif" height="256" />
+<img  align="right" src="https://raw.githubusercontent.com/yaelmontufar/yaelmontufar/main/YM.gif" height="200" />
+
+- 🎓	Bootcamp grad, full stack web developer
+
+- 📚	Self-taught cross-platform mobile developer
+
+- 💪	Currently working on my own fitness app
+
+- 🚀	A few weeks away from lauch
+
 
 ### Experienced in
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="64px">
@@ -19,6 +29,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="64px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="64px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="64px">
+
+### Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64px">
 
 ### Using
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64px">
