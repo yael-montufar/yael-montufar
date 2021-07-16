@@ -1,5 +1,5 @@
 <h1 align="center">&lt;HelloWorld/&gt; <img src="https://raw.githubusercontent.com/yaelmontufar/yaelmontufar/main/Hi.gif" width="30px"></h1>
-<img  align="right" src="https://raw.githubusercontent.com/yaelmontufar/yaelmontufar/main/YM.gif" height="200" />
+<img  align="right" src="https://raw.githubusercontent.com/yaelmontufar/yaelmontufar/main/YM.gif" height="128" />
 
 - 🎓	Bootcamp grad, full stack web developer
 
