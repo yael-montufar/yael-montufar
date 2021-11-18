@@ -7,10 +7,6 @@
 
 - 📚  Self-taught cross-platform mobile developer
 
-- 💪  Currently working on a fitness app
-
-- 🚀  A few weeks away from lauch
-
 
 ### Experienced in
 
